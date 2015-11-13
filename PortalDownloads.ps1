@@ -6,7 +6,7 @@
     Node localhost
         {
 
-        File SetupFile
+        xRemoteFile GetFile
             {
             Uri = "https://raw.githubusercontent.com/anwather/Blog/Dev/Setup.zip"
             DestinationPath = "C:\Temp"
