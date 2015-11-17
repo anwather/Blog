@@ -8,7 +8,7 @@
 
         xRemoteFile GetFile
             {
-            Uri = "https://raw.githubusercontent.com/anwather/Blog/Dev/Setup.zip"
+            Uri = "https://raw.githubusercontent.com/anwather/Blog/Master/Setup.zip"
             DestinationPath = "C:\Temp"
             }
 
