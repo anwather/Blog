@@ -1,6 +1,6 @@
 ﻿Configuration PortalWebServer
     {
-
+    # Need to change to add a foreach loop
     Node localhost
         {
 
